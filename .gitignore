@@ -19,3 +19,6 @@
 *.exe.dlls/
 *.exe.manifest
 *.pc
+
+# Modules artefacts
+*.ifc

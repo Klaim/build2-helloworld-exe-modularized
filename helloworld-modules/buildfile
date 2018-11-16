@@ -1,6 +1,6 @@
 libs =
 #import libs += libhello%lib{hello}
 
-exe{helloworld-modules}: {hxx ixx txx cxx}{**} $libs testscript
+exe{helloworld-modules}: {hxx ixx txx cxx mxx}{**} $libs testscript
 
 cxx.poptions =+ "-I$out_root" "-I$src_root"
