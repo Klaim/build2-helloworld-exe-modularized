@@ -1,0 +1,5 @@
+helloworld-modules
+
+# Testscript output directory (can be symlink).
+#
+test-helloworld-modules

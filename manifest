@@ -1,0 +1,10 @@
+: 1
+name: helloworld-modules
+version: 0.1.0-a.0.z
+summary: helloworld-modules executable
+license: TODO
+url: https://example.org/helloworld-modules
+email: mjklaim@gmail.com
+depends: * build2 >= 0.8.0-
+depends: * bpkg >= 0.8.0-
+#depends: libhello ^1.0.0
